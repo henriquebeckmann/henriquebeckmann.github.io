@@ -822,6 +822,9 @@ img {
 
 .project__img {
   width: 232px;
+  height: 310px;
+  border-radius: 0.5rem;
+  margin-bottom: var(--mb-2-5);
   justify-self: center;
 }
 
