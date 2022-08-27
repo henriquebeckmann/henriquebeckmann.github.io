@@ -534,20 +534,24 @@ img {
   width: 80%;
 }
 
-.skills__firebase {
-  width: 90%;
+.skills__rust {
+  width: 80%;
 }
 
-.skills__figma {
-  width: 90%;
-}
-
-.skills__sketch {
-  width: 85%;
+.skills__postgresql {
+  width: 80%;
 }
 
 .skills__photoshop {
   width: 90%;
+}
+
+.skills__figma {
+  width: 85%;
+}
+
+.skills__sketch {
+  width: 80%;
 }
 
 .skills__close .skills__list {
